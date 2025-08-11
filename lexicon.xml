@@ -1,4 +1,22 @@
-<data>
-  <item>Value 1</item>
-  <item>Value 2</item>
-</data>
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+         xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+         alphabet="ipa"
+         xml:lang="es-ES">
+  <lexeme>
+    <grapheme>avatar</grapheme>
+    <pronunciation>ˈa.va.tar</pronunciation>
+  </lexeme>
+  <lexeme>
+    <grapheme>helena</grapheme>
+    <pronunciation>eˈle.na</pronunciation>
+  </lexeme>
+  <lexeme>
+    <grapheme>Handoff</grapheme>
+    <pronunciation>jan.dof</pronunciation>
+  </lexeme>
+  <lexeme>
+    <grapheme>Promigas</grapheme>
+    <pronunciation>pro.mi.gas</pronunciation>
+  </lexeme>
+</lexicon>
